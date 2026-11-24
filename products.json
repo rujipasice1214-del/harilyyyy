@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hairly-rose-500",
+    "name": "ยาสระผม Rose",
+    "mood": "Rose",
+    "type": "shampoo",
+    "size": "500ml",
+    "price": 119,
+    "image": "images/fresh.jpg",
+    "description": "ยาสระผมกลิ่นกุหลาบ ทำความสะอาดอย่างอ่อนโยน ทิ้งผมนุ่มลื่นและกลิ่นหอมละมุนไว้ตลอดวัน"
+  },
+  {
+    "id": "hairly-coconut-500",
+    "name": "ยาสระผม Coconut",
+    "mood": "Coconut",
+    "type": "shampoo",
+    "size": "500ml",
+    "price": 119,
+    "image": "images/freshh.jpg",
+    "description": "ยาสระผมกลิ่นมะพร้าว ทำความสะอาดอย่างอ่อนโยน ให้ผมนุ่มสบายและกลิ่นหอมอบอุ่น"
+  }
+]
